@@ -33,6 +33,11 @@
 - GitHub
 
 ---
+## 📊 GitHub Stats
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-dev05&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-dev05&layout=compact)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contact
 
