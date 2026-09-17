@@ -25,6 +25,7 @@
 ## 🛠 Skills
 
 - C
+- C++
 - Python
 - HTML
 - CSS
